@@ -4,6 +4,7 @@ Team Members: Feng Guo, Nicholas Howald, Marie Childers, Jordan Dovel, Sami Nesn
 
 
 Our solution is Ensemble model (i.e., weighted average on ridge regressions) from
+
          ###  Uni & Bi-gram Bag-of-Words  + Doc2Vec  ###
 
 The code is clean and has been tested; make sure all the related packages/modules were installed correctly if you want to run the code. As the seed was not pre-determined, the exact same results cannot be reached repeatedly. However, the differences should be little that can be ignored. 
